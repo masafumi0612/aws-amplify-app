@@ -10,6 +10,11 @@
       "StackName": "amplify-awstutorialwithreact-dev-99833",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:774305595884:stack/amplify-awstutorialwithreact-dev-99833/35fabb80-cb63-11ef-a30f-0e0cecb455a9",
       "AmplifyAppId": "dk02ugr6rdm00"
+    },
+    "categories": {
+      "auth": {
+        "awstutorialwithreact8d7794f8": {}
+      }
     }
   }
 }
